@@ -1,7 +1,3 @@
-Perfect 👍
-Below is ONLY the content for disk-pressure-k3s-workers.md.
-You can copy–paste directly into GitHub or Obsidian.
-
 ⸻
 
 
